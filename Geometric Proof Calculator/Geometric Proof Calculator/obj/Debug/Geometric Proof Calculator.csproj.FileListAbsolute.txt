@@ -1,0 +1,10 @@
+C:\Users\nindr\source\repos\Geometric Proof Calculator\Geometric Proof Calculator\bin\Debug\Geometric Proof Calculator.exe.config
+C:\Users\nindr\source\repos\Geometric Proof Calculator\Geometric Proof Calculator\bin\Debug\Geometric Proof Calculator.exe
+C:\Users\nindr\source\repos\Geometric Proof Calculator\Geometric Proof Calculator\bin\Debug\Geometric Proof Calculator.pdb
+C:\Users\nindr\source\repos\Geometric Proof Calculator\Geometric Proof Calculator\obj\Debug\Geometric Proof Calculator.csprojAssemblyReference.cache
+C:\Users\nindr\source\repos\Geometric Proof Calculator\Geometric Proof Calculator\obj\Debug\Geometric_Proof_Calculator.Properties.Resources.resources
+C:\Users\nindr\source\repos\Geometric Proof Calculator\Geometric Proof Calculator\obj\Debug\Geometric Proof Calculator.csproj.GenerateResource.cache
+C:\Users\nindr\source\repos\Geometric Proof Calculator\Geometric Proof Calculator\obj\Debug\Geometric Proof Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nindr\source\repos\Geometric Proof Calculator\Geometric Proof Calculator\obj\Debug\Geometric Proof Calculator.exe
+C:\Users\nindr\source\repos\Geometric Proof Calculator\Geometric Proof Calculator\obj\Debug\Geometric Proof Calculator.pdb
+C:\Users\nindr\source\repos\Geometric Proof Calculator\Geometric Proof Calculator\obj\Debug\Geometric_Proof_Calculator.step1.resources
